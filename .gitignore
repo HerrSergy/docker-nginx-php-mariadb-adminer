@@ -1,0 +1,6 @@
+# Folders
+/bbdd/
+/logs/
+
+# Files
+.env
